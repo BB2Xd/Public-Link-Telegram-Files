@@ -7,8 +7,8 @@
 /*  Database */
 define('HOST','containers-us-west-9.railway.app'); # Database host name
 define('DBNAME','railway'); # Database name
-define('DBUSERNAME','postgres'); # Database username
-define('DBPASSWORD','MFyJFTbGQFCOWHN3dr4Z'); # Database password
+define('DBUSERNAME','root'); # Database username
+define('DBPASSWORD','EnRrzLwKSPXOscxplNY2'); # Database password
 
 #/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
