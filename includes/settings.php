@@ -5,10 +5,10 @@
 #===============================================================================
 
 /*  Database */
-define('HOST','localhost'); # Database host name
-define('DBNAME',''); # Database name
-define('DBUSERNAME',''); # Database username
-define('DBPASSWORD',''); # Database password
+define('HOST','containers-us-west-9.railway.app:6448'); # Database host name
+define('DBNAME','railway'); # Database name
+define('DBUSERNAME','postgres'); # Database username
+define('DBPASSWORD','vW9XphaE7Mninpm9mFLz'); # Database password
 
 #/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
