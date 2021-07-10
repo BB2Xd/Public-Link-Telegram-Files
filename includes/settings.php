@@ -5,10 +5,6 @@
 #===============================================================================
 
 /*  Database */
-define('HOST','containers-us-west-9.railway.app'); # Database host name
-define('DBNAME','railway'); # Database name
-define('DBUSERNAME','root'); # Database username
-define('DBPASSWORD','EnRrzLwKSPXOscxplNY2'); # Database password
 
 #/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
@@ -20,7 +16,7 @@ define('APP_URL','https://api.telegram.org/bot'.API_KEY);   ## Don't edit this l
 #-------------------------- Connect to database --------------------------------
 #===============================================================================
 try {
-    $conn = new PDO('mysql:host='.HOST.';dbname='.DBNAME.';charset=utf8mb4', DBUSERNAME, DBPASSWORD);
+    $conn = new PDO('mysql:host=containers-us-west-9.railway.app;dbname=railway;port=6654;charset=utf8mb4', root, EnRrzLwKSPXOscxplNY2);
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     //Create tables
     include_once __DIR__ . '/tables.php';
