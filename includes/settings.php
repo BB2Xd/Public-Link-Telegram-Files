@@ -13,7 +13,7 @@ define('DBPASSWORD','MFyJFTbGQFCOWHN3dr4Z'); # Database password
 #/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
 /*  Telegram Bot API Key */
-define('API_KEY','');  # Enter bot api token
+define('API_KEY','1885614923:AAEG0jUS0wz7o-s-6JPE_dGVt3ZfJZ1oqzs');  # Enter bot api token
 define('APP_URL','https://api.telegram.org/bot'.API_KEY);   ## Don't edit this line ##
 
 #===============================================================================
