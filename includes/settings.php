@@ -9,7 +9,7 @@
 #/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
 /*  Telegram Bot API Key */
-define('API_KEY','1885614923:AAEG0jUS0wz7o-s-6JPE_dGVt3ZfJZ1oqzs');  # Enter bot api token
+define('API_KEY','1885614923:AAFsK7TQYsIMGVaRNxue9l70JasGQl06Cio');  # Enter bot api token
 define('APP_URL','https://api.telegram.org/bot'.API_KEY);   ## Don't edit this line ##
 
 #===============================================================================
@@ -53,7 +53,7 @@ $FilesDeleteAfter = 60;
 #\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 
 /* lang */
-$lang = 'fa';
+$lang = 'en';
 
 #/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
