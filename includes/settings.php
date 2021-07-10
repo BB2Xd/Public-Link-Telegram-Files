@@ -9,7 +9,7 @@
 #/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
 /*  Telegram Bot API Key */
-define('API_KEY','1885614923:AAG7UBZaJlQ8eBrYSRB8BOXeW3hJVEMR-CI');  # Enter bot api token
+define('API_KEY','1885614923:AAHqyuJ7IlBefQUVZJn0BWEO5tN7nHm_ErI');  # Enter bot api token
 define('APP_URL','https://api.telegram.org/bot'.API_KEY);   ## Don't edit this line ##
 
 #===============================================================================
